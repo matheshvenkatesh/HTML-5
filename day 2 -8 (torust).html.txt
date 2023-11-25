@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+   <meta charset="UTF-8">
+   <title>Tourist</title>
+</head>
+<body>
+   <center>
+      <h1> Tourist Web Page </h1>
+      <p> Hogenakkal Falls is a waterfall in South India on the Kaveri river on the border between Dharmapuri district of Tamil Nadu and Chamrajnagar district of Karnataka.<br> It is located 46 km (29 mi) from Dharmapuri district headquarter and 199 km (124 mi) from Chamrajnagar district headquarter. It is also located 127 km (79 mi) from Bangalore, 181 km (112 mi) from Mysore, 344 km (214 mi) from Chennai and 200 km (120 mi) from Coimbatore.<br> It is sometimes referred to as the "Niagara Falls of India," it is known for bathing areas and hired boat rides and as a major tourist attraction. Carbonatite rocks in this site are considered to be the oldest of its kind in South Asia and one of the oldest in the world.[8] The Government of Tamil Nadu made a proposal to convert the falls into providing drinking water for the state. </p><br>
+
+    <br><img src="C:\Users\91875\OneDrive\Desktop\html ans'\hogenakkal img.jpg" alt="Hogenakkal top view" width="90px" height="100px"><br>
+
+     <br> <img src="C:\Users\91875\OneDrive\Desktop\html ans'\images hogenakkal.jpg" alt="Hogenakkal bot service" width="100px" height="100px"><br>
+
+     <br><a href="https://oneday.travel/1-day-coimbatore-to-hogenakkal-waterfalls-tour-by-car/" target="_blank"> click here for more information </a> 
+
+   </center>
+   
+</body>
+</html>
